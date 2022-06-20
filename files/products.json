@@ -1,0 +1,22 @@
+[
+  {
+    "name": "prueba4",
+    "description": "objeto de prueba 4",
+    "code": "008",
+    "image": "https://citizengo.org/sites/default/files/images/test_3.png",
+    "price": 100,
+    "stock": 200,
+    "id": 1,
+    "timestamp": 1648593651963
+  },
+  {
+    "name": "prueba5",
+    "description": "objeto de prueba 4",
+    "code": "0084",
+    "image": "https://citizengo.org/sites/default/files/images/test_3.png",
+    "price": 100,
+    "stock": 200,
+    "id": 2,
+    "timestamp": 1648602455144
+  }
+]
